@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LinearRegressionInteractive</string>
+        <string name="start">Predict</string>
+        <string name="title">Linear Regression- Touch</string>
+        <string name="title2">Linear Regression- File</string>
+        <string name="tV">Predict X</string>
+        <string name="tV2">Salary</string>
+        <string name="predicton">Predicted value of x is </string>
+        <string name="reset">reset</string>
+        <string name="click_to_plot">Click to Plot</string>
+    <string name="number_of_dots">Number of dots</string>
+    <string name="prediction">Prediction</string>
+    <string name="prediciton">Prediciton</string>
+    <string name="touch">Touch</string>
+    <string name="file">File</string>
+    <string name="_1_8">1-8</string>
+    <string name="positive_integer">positive integer</string>
+</resources>
